@@ -6,10 +6,10 @@
     @@  
     @
  * Date: 2016/10/17
- * Author: 1050210XX 周永振老師
+ * Author: 105021059 王俊鑌
  */
 
-public class ex04_1050210XX {
+public class ex04_105021059 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
