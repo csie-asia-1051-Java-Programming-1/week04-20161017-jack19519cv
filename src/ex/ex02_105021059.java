@@ -20,6 +20,8 @@ public class ex02_105021059 {
 		      System.out.println("是否繼續(Y/n)");
 		      char j=scn.next().charAt(0);
 		      if (j!='Y'&& j!='y'){
+		    	  
+		    	 
 		    	  System.out.println("程式結束");
 		      
       break;}

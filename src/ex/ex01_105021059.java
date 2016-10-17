@@ -16,12 +16,9 @@ public class ex01_105021059 {
 	 
 		   int sum = 0;
 		   float ave=0;
-		   
 		while(n!=-1){
 			sum = sum+n ;ave++;
-			
 			 n = scn.nextInt();
-			
 		}
 		System.out.println("總合"+sum);
 		System.out.println("平均"+sum/ave);
